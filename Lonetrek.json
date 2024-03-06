@@ -1,0 +1,919 @@
+[
+    {
+        "category": "constellation",
+        "id": 20000198,
+        "name": "Okunda",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30001357,
+                "name": "Antiainen",
+                "npc_kills": 63,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001358,
+                "name": "Ossa",
+                "npc_kills": 54,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001359,
+                "name": "Semiki",
+                "npc_kills": 48,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001360,
+                "name": "Kiskoken",
+                "npc_kills": 85,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001361,
+                "name": "Aurohunen",
+                "npc_kills": 2,
+                "ship_kills": 1,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001356,
+                "name": "Dantumi",
+                "npc_kills": 28,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 6,
+        "total_kills_nps": 280,
+        "total_kills_ship": 1,
+        "total_kills_pod": 0
+    },
+    {
+        "category": "constellation",
+        "id": 20000199,
+        "name": "Koichi",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30001362,
+                "name": "Veisto",
+                "npc_kills": 207,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001363,
+                "name": "Sobaseki",
+                "npc_kills": 262,
+                "ship_kills": 0,
+                "pod_kills": 1
+            },
+            {
+                "category": "solar_system",
+                "id": 30001364,
+                "name": "Funtanainen",
+                "npc_kills": 398,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001365,
+                "name": "Isikemi",
+                "npc_kills": 628,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001366,
+                "name": "Uosusuokko",
+                "npc_kills": 343,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001367,
+                "name": "Hageken",
+                "npc_kills": 265,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30021392,
+                "name": "Kappas",
+                "npc_kills": 178,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 7,
+        "total_kills_nps": 2281,
+        "total_kills_ship": 0,
+        "total_kills_pod": 1
+    },
+    {
+        "category": "constellation",
+        "id": 20000200,
+        "name": "Haurala",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30001369,
+                "name": "Sotrentaira",
+                "npc_kills": 208,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001370,
+                "name": "Ouranienen",
+                "npc_kills": 81,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001371,
+                "name": "Erenta",
+                "npc_kills": 135,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001373,
+                "name": "Raussinen",
+                "npc_kills": 191,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001368,
+                "name": "Uemisaisen",
+                "npc_kills": 151,
+                "ship_kills": 1,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 5,
+        "total_kills_nps": 766,
+        "total_kills_ship": 1,
+        "total_kills_pod": 0
+    },
+    {
+        "category": "constellation",
+        "id": 20000201,
+        "name": "Okela",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30001374,
+                "name": "Iidoken",
+                "npc_kills": 298,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001375,
+                "name": "Tsuguwa",
+                "npc_kills": 301,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001376,
+                "name": "Nourvukaiken",
+                "npc_kills": 282,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001377,
+                "name": "Sarekuwa",
+                "npc_kills": 202,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001378,
+                "name": "Ekura",
+                "npc_kills": 169,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001379,
+                "name": "Tunttaras",
+                "npc_kills": 293,
+                "ship_kills": 0,
+                "pod_kills": 1
+            },
+            {
+                "category": "solar_system",
+                "id": 30011392,
+                "name": "Jouvulen",
+                "npc_kills": 157,
+                "ship_kills": 4,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30031407,
+                "name": "Hitanishio",
+                "npc_kills": 174,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30041407,
+                "name": "Ichinumi",
+                "npc_kills": 81,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 9,
+        "total_kills_nps": 1957,
+        "total_kills_ship": 4,
+        "total_kills_pod": 1
+    },
+    {
+        "category": "constellation",
+        "id": 20000202,
+        "name": "Kaala",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30001380,
+                "name": "Vellaine",
+                "npc_kills": 154,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001382,
+                "name": "Akonoinen",
+                "npc_kills": 109,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001383,
+                "name": "Vaajaita",
+                "npc_kills": 81,
+                "ship_kills": 1,
+                "pod_kills": 1
+            },
+            {
+                "category": "solar_system",
+                "id": 30001384,
+                "name": "Autaris",
+                "npc_kills": 69,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001385,
+                "name": "Jan",
+                "npc_kills": 37,
+                "ship_kills": 1,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 5,
+        "total_kills_nps": 450,
+        "total_kills_ship": 2,
+        "total_kills_pod": 1
+    },
+    {
+        "category": "constellation",
+        "id": 20000203,
+        "name": "Makiriemi",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30001386,
+                "name": "Saatuban",
+                "npc_kills": 56,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001387,
+                "name": "Isikano",
+                "npc_kills": 107,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001388,
+                "name": "Mara",
+                "npc_kills": 245,
+                "ship_kills": 1,
+                "pod_kills": 1
+            },
+            {
+                "category": "solar_system",
+                "id": 30001389,
+                "name": "Isanamo",
+                "npc_kills": 142,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001391,
+                "name": "Piekura",
+                "npc_kills": 226,
+                "ship_kills": 5,
+                "pod_kills": 4
+            },
+            {
+                "category": "solar_system",
+                "id": 30001390,
+                "name": "Pakkonen",
+                "npc_kills": 2,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 6,
+        "total_kills_nps": 778,
+        "total_kills_ship": 6,
+        "total_kills_pod": 5
+    },
+    {
+        "category": "constellation",
+        "id": 20000204,
+        "name": "Sela",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30001392,
+                "name": "Amsen",
+                "npc_kills": 136,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001394,
+                "name": "Korama",
+                "npc_kills": 455,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001395,
+                "name": "Ylandoki",
+                "npc_kills": 537,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001396,
+                "name": "Aakari",
+                "npc_kills": 381,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001397,
+                "name": "Isseras",
+                "npc_kills": 235,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001393,
+                "name": "Malkalen",
+                "npc_kills": 278,
+                "ship_kills": 1,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 6,
+        "total_kills_nps": 2022,
+        "total_kills_ship": 1,
+        "total_kills_pod": 0
+    },
+    {
+        "category": "constellation",
+        "id": 20000205,
+        "name": "Minnen",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30001398,
+                "name": "Aunenen",
+                "npc_kills": 16,
+                "ship_kills": 4,
+                "pod_kills": 3
+            },
+            {
+                "category": "solar_system",
+                "id": 30001399,
+                "name": "Elonaya",
+                "npc_kills": 168,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001400,
+                "name": "Litiura",
+                "npc_kills": 207,
+                "ship_kills": 1,
+                "pod_kills": 1
+            },
+            {
+                "category": "solar_system",
+                "id": 30001401,
+                "name": "Nonni",
+                "npc_kills": 222,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001403,
+                "name": "Piak",
+                "npc_kills": 213,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001402,
+                "name": "Passari",
+                "npc_kills": 143,
+                "ship_kills": 1,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 6,
+        "total_kills_nps": 969,
+        "total_kills_ship": 6,
+        "total_kills_pod": 4
+    },
+    {
+        "category": "constellation",
+        "id": 20000206,
+        "name": "Karnola",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30001404,
+                "name": "Airkio",
+                "npc_kills": 272,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001405,
+                "name": "Kakakela",
+                "npc_kills": 291,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001406,
+                "name": "Kamokor",
+                "npc_kills": 404,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001407,
+                "name": "Todaki",
+                "npc_kills": 467,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001408,
+                "name": "Ruvas",
+                "npc_kills": 310,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001409,
+                "name": "Umokka",
+                "npc_kills": 428,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30011407,
+                "name": "Akiainavas",
+                "npc_kills": 365,
+                "ship_kills": 36,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 7,
+        "total_kills_nps": 2537,
+        "total_kills_ship": 36,
+        "total_kills_pod": 0
+    },
+    {
+        "category": "constellation",
+        "id": 20000207,
+        "name": "Kainokai",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30001410,
+                "name": "Kirras",
+                "npc_kills": 170,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001411,
+                "name": "Autama",
+                "npc_kills": 286,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001412,
+                "name": "Tsukuras",
+                "npc_kills": 378,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001414,
+                "name": "Ajanen",
+                "npc_kills": 141,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001415,
+                "name": "Kuoka",
+                "npc_kills": 72,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 5,
+        "total_kills_nps": 1047,
+        "total_kills_ship": 0,
+        "total_kills_pod": 0
+    },
+    {
+        "category": "constellation",
+        "id": 20000208,
+        "name": "Pietanen",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30001416,
+                "name": "Liukikka",
+                "npc_kills": 269,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001417,
+                "name": "Rauntaka",
+                "npc_kills": 44,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001418,
+                "name": "Aikantoh",
+                "npc_kills": 307,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001419,
+                "name": "Atai",
+                "npc_kills": 14,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001420,
+                "name": "Daras",
+                "npc_kills": 3,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001421,
+                "name": "Otalieto",
+                "npc_kills": 191,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001422,
+                "name": "Iitanmadan",
+                "npc_kills": 47,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001423,
+                "name": "Jotenen",
+                "npc_kills": 164,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 8,
+        "total_kills_nps": 1039,
+        "total_kills_ship": 0,
+        "total_kills_pod": 0
+    },
+    {
+        "category": "constellation",
+        "id": 20000209,
+        "name": "Asalola",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30001424,
+                "name": "Haajinen",
+                "npc_kills": 136,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001425,
+                "name": "Oipo",
+                "npc_kills": 105,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001426,
+                "name": "Isinokka",
+                "npc_kills": 112,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001427,
+                "name": "Yoma",
+                "npc_kills": 212,
+                "ship_kills": 0,
+                "pod_kills": 1
+            },
+            {
+                "category": "solar_system",
+                "id": 30001428,
+                "name": "Ibura",
+                "npc_kills": 409,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001429,
+                "name": "Torrinos",
+                "npc_kills": 282,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 6,
+        "total_kills_nps": 1256,
+        "total_kills_ship": 0,
+        "total_kills_pod": 1
+    },
+    {
+        "category": "constellation",
+        "id": 20000210,
+        "name": "Malariya",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30001430,
+                "name": "Endatoh",
+                "npc_kills": 194,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001431,
+                "name": "Aivoli",
+                "npc_kills": 9,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001432,
+                "name": "Uesuro",
+                "npc_kills": 78,
+                "ship_kills": 1,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001433,
+                "name": "Oishami",
+                "npc_kills": 7,
+                "ship_kills": 1,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001434,
+                "name": "Elanoda",
+                "npc_kills": 73,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001435,
+                "name": "Ohbochi",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001436,
+                "name": "Isie",
+                "npc_kills": 2,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 7,
+        "total_kills_nps": 363,
+        "total_kills_ship": 2,
+        "total_kills_pod": 0
+    },
+    {
+        "category": "constellation",
+        "id": 20000211,
+        "name": "Umamon",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30001437,
+                "name": "Tamo",
+                "npc_kills": 0,
+                "ship_kills": 1,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001438,
+                "name": "Nannaras",
+                "npc_kills": 102,
+                "ship_kills": 1,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001439,
+                "name": "Anin",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001440,
+                "name": "Karjataimon",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001441,
+                "name": "Tartoken",
+                "npc_kills": 28,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001442,
+                "name": "Saranen",
+                "npc_kills": 18,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 6,
+        "total_kills_nps": 148,
+        "total_kills_ship": 2,
+        "total_kills_pod": 0
+    },
+    {
+        "category": "constellation",
+        "id": 20000212,
+        "name": "Mito",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30001443,
+                "name": "Vuorrassi",
+                "npc_kills": 51,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001444,
+                "name": "Oimmo",
+                "npc_kills": 179,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001446,
+                "name": "Otsasai",
+                "npc_kills": 250,
+                "ship_kills": 1,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001447,
+                "name": "Taisy",
+                "npc_kills": 41,
+                "ship_kills": 1,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001448,
+                "name": "Hakonen",
+                "npc_kills": 379,
+                "ship_kills": 1,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 5,
+        "total_kills_nps": 900,
+        "total_kills_ship": 3,
+        "total_kills_pod": 0
+    }
+]

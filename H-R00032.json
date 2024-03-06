@@ -1,0 +1,235 @@
+[
+    {
+        "category": "constellation",
+        "id": 21000331,
+        "name": "H-C00331",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 31002580,
+                "name": "J000895",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 31002581,
+                "name": "J000487",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 31002582,
+                "name": "J000621",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 31002583,
+                "name": "J000551",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 4,
+        "total_kills_nps": 0,
+        "total_kills_ship": 0,
+        "total_kills_pod": 0
+    },
+    {
+        "category": "constellation",
+        "id": 21000332,
+        "name": "H-C00332",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 31002587,
+                "name": "J000186",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 31002592,
+                "name": "J000965",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 31002593,
+                "name": "J000304",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 31002594,
+                "name": "J000595",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 31002584,
+                "name": "J000630",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 31002585,
+                "name": "J000452",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 31002586,
+                "name": "J000327",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 31002588,
+                "name": "J000528",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 31002589,
+                "name": "J000353",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 31002590,
+                "name": "J000461",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 31002591,
+                "name": "J000522",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 11,
+        "total_kills_nps": 0,
+        "total_kills_ship": 0,
+        "total_kills_pod": 0
+    },
+    {
+        "category": "constellation",
+        "id": 21000333,
+        "name": "H-C00333",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 31002595,
+                "name": "J000685",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 31002596,
+                "name": "J000844",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 31002597,
+                "name": "J000719",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 31002598,
+                "name": "J000726",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 31002599,
+                "name": "J000214",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 31002600,
+                "name": "J000652",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 31002601,
+                "name": "J000313",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 31002602,
+                "name": "J000687",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 31002603,
+                "name": "J000427",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 31002604,
+                "name": "J000102",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 10,
+        "total_kills_nps": 0,
+        "total_kills_ship": 0,
+        "total_kills_pod": 0
+    }
+]

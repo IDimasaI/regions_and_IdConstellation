@@ -1,0 +1,251 @@
+[
+    {
+        "category": "constellation",
+        "id": 20000787,
+        "name": "Krai Perun",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30000157,
+                "name": "Otela",
+                "npc_kills": 32,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000192,
+                "name": "Otanuomi",
+                "npc_kills": 43,
+                "ship_kills": 1,
+                "pod_kills": 1
+            },
+            {
+                "category": "solar_system",
+                "id": 30001372,
+                "name": "Kino",
+                "npc_kills": 60,
+                "ship_kills": 3,
+                "pod_kills": 2
+            },
+            {
+                "category": "solar_system",
+                "id": 30001445,
+                "name": "Nalvula",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002079,
+                "name": "Krirald",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 1
+            },
+            {
+                "category": "solar_system",
+                "id": 30002737,
+                "name": "Konola",
+                "npc_kills": 0,
+                "ship_kills": 1,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30005005,
+                "name": "Ignebaener",
+                "npc_kills": 17,
+                "ship_kills": 1,
+                "pod_kills": 1
+            },
+            {
+                "category": "solar_system",
+                "id": 30031392,
+                "name": "Komo",
+                "npc_kills": 27,
+                "ship_kills": 3,
+                "pod_kills": 2
+            },
+            {
+                "category": "solar_system",
+                "id": 30010141,
+                "name": "Sakenta",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 9,
+        "total_kills_nps": 179,
+        "total_kills_ship": 9,
+        "total_kills_pod": 7
+    },
+    {
+        "category": "constellation",
+        "id": 20000788,
+        "name": "Krai Svarog",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30000021,
+                "name": "Kuharah",
+                "npc_kills": 52,
+                "ship_kills": 6,
+                "pod_kills": 4
+            },
+            {
+                "category": "solar_system",
+                "id": 30001413,
+                "name": "Nani",
+                "npc_kills": 35,
+                "ship_kills": 1,
+                "pod_kills": 1
+            },
+            {
+                "category": "solar_system",
+                "id": 30002225,
+                "name": "Harva",
+                "npc_kills": 2,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002411,
+                "name": "Skarkon",
+                "npc_kills": 37,
+                "ship_kills": 8,
+                "pod_kills": 8
+            },
+            {
+                "category": "solar_system",
+                "id": 30002770,
+                "name": "Tunudan",
+                "npc_kills": 66,
+                "ship_kills": 2,
+                "pod_kills": 2
+            },
+            {
+                "category": "solar_system",
+                "id": 30003495,
+                "name": "Raravoss",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30003504,
+                "name": "Niarja",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30045328,
+                "name": "Ahtila",
+                "npc_kills": 21,
+                "ship_kills": 2,
+                "pod_kills": 1
+            },
+            {
+                "category": "solar_system",
+                "id": 30040141,
+                "name": "Urhinichi",
+                "npc_kills": 21,
+                "ship_kills": 4,
+                "pod_kills": 3
+            }
+        ],
+        "systems_count": 9,
+        "total_kills_nps": 234,
+        "total_kills_ship": 23,
+        "total_kills_pod": 19
+    },
+    {
+        "category": "constellation",
+        "id": 20000789,
+        "name": "Krai Veles",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30000206,
+                "name": "Wirashoda",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30001381,
+                "name": "Arvasaras",
+                "npc_kills": 15,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002652,
+                "name": "Ala",
+                "npc_kills": 13,
+                "ship_kills": 1,
+                "pod_kills": 1
+            },
+            {
+                "category": "solar_system",
+                "id": 30002702,
+                "name": "Archee",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002797,
+                "name": "Kaunokka",
+                "npc_kills": 14,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30003046,
+                "name": "Angymonne",
+                "npc_kills": 0,
+                "ship_kills": 1,
+                "pod_kills": 1
+            },
+            {
+                "category": "solar_system",
+                "id": 30005029,
+                "name": "Vale",
+                "npc_kills": 1,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30020141,
+                "name": "Senda",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30045329,
+                "name": "Ichoriya",
+                "npc_kills": 29,
+                "ship_kills": 3,
+                "pod_kills": 2
+            }
+        ],
+        "systems_count": 9,
+        "total_kills_nps": 72,
+        "total_kills_ship": 5,
+        "total_kills_pod": 4
+    }
+]

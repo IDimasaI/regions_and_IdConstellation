@@ -1,0 +1,506 @@
+[
+    {
+        "category": "constellation",
+        "id": 20000433,
+        "name": "Semou",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30002957,
+                "name": "Tzvi",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002958,
+                "name": "Raa",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002959,
+                "name": "Sifilar",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002960,
+                "name": "Arzad",
+                "npc_kills": 121,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002961,
+                "name": "Oyeman",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002962,
+                "name": "Ezzara",
+                "npc_kills": 19,
+                "ship_kills": 1,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 6,
+        "total_kills_nps": 140,
+        "total_kills_ship": 1,
+        "total_kills_pod": 0
+    },
+    {
+        "category": "constellation",
+        "id": 20000434,
+        "name": "Ryra",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30002963,
+                "name": "Odin",
+                "npc_kills": 70,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002964,
+                "name": "Esescama",
+                "npc_kills": 78,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002965,
+                "name": "Choonka",
+                "npc_kills": 28,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002966,
+                "name": "Thasinaz",
+                "npc_kills": 158,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002967,
+                "name": "Dihra",
+                "npc_kills": 79,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002968,
+                "name": "Dital",
+                "npc_kills": 21,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 6,
+        "total_kills_nps": 434,
+        "total_kills_ship": 0,
+        "total_kills_pod": 0
+    },
+    {
+        "category": "constellation",
+        "id": 20000435,
+        "name": "Kisana",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30002970,
+                "name": "Ohide",
+                "npc_kills": 51,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002971,
+                "name": "Sasoutikh",
+                "npc_kills": 13,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002973,
+                "name": "Lisudeh",
+                "npc_kills": 105,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002969,
+                "name": "Eredan",
+                "npc_kills": 76,
+                "ship_kills": 13,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002972,
+                "name": "Gheth",
+                "npc_kills": 130,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002974,
+                "name": "Mehatoor",
+                "npc_kills": 12,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 6,
+        "total_kills_nps": 387,
+        "total_kills_ship": 13,
+        "total_kills_pod": 0
+    },
+    {
+        "category": "constellation",
+        "id": 20000436,
+        "name": "Jayai",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30002975,
+                "name": "Roushzar",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002976,
+                "name": "Labapi",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002977,
+                "name": "Arayar",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002978,
+                "name": "Asghed",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002979,
+                "name": "Tararan",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002980,
+                "name": "Sosan",
+                "npc_kills": 0,
+                "ship_kills": 1,
+                "pod_kills": 1
+            },
+            {
+                "category": "solar_system",
+                "id": 30002981,
+                "name": "Halmah",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 7,
+        "total_kills_nps": 0,
+        "total_kills_ship": 1,
+        "total_kills_pod": 1
+    },
+    {
+        "category": "constellation",
+        "id": 20000437,
+        "name": "Kabo",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30002982,
+                "name": "Rahadalon",
+                "npc_kills": 6,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002983,
+                "name": "Soosat",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002984,
+                "name": "Ibash",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002985,
+                "name": "Itsyamil",
+                "npc_kills": 2,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002986,
+                "name": "Mendori",
+                "npc_kills": 31,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002987,
+                "name": "Ussad",
+                "npc_kills": 2,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 6,
+        "total_kills_nps": 41,
+        "total_kills_ship": 0,
+        "total_kills_pod": 0
+    },
+    {
+        "category": "constellation",
+        "id": 20000438,
+        "name": "Daredan",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30002988,
+                "name": "Nakatre",
+                "npc_kills": 194,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002989,
+                "name": "Laddiaha",
+                "npc_kills": 4,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002990,
+                "name": "Hakshma",
+                "npc_kills": 128,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002991,
+                "name": "Uadelah",
+                "npc_kills": 23,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002992,
+                "name": "Akes",
+                "npc_kills": 1,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002993,
+                "name": "Riavayed",
+                "npc_kills": 234,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002994,
+                "name": "Hati",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 7,
+        "total_kills_nps": 584,
+        "total_kills_ship": 0,
+        "total_kills_pod": 0
+    },
+    {
+        "category": "constellation",
+        "id": 20000439,
+        "name": "Abthi",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30002995,
+                "name": "Naeel",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002996,
+                "name": "Lower Debyl",
+                "npc_kills": 23,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002997,
+                "name": "Ehnoum",
+                "npc_kills": 20,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002998,
+                "name": "Upper Debyl",
+                "npc_kills": 1,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30002999,
+                "name": "Shastal",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30003000,
+                "name": "Thakala",
+                "npc_kills": 16,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 6,
+        "total_kills_nps": 60,
+        "total_kills_ship": 0,
+        "total_kills_pod": 0
+    },
+    {
+        "category": "constellation",
+        "id": 20000440,
+        "name": "Enka",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30003001,
+                "name": "Mili",
+                "npc_kills": 20,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30003002,
+                "name": "Faktun",
+                "npc_kills": 11,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30003003,
+                "name": "Halenan",
+                "npc_kills": 1,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30003004,
+                "name": "Ulerah",
+                "npc_kills": 33,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30003005,
+                "name": "Uktiad",
+                "npc_kills": 39,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30003006,
+                "name": "Nidebora",
+                "npc_kills": 23,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30003007,
+                "name": "Arveyil",
+                "npc_kills": 20,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30003008,
+                "name": "Palpis",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 8,
+        "total_kills_nps": 147,
+        "total_kills_ship": 0,
+        "total_kills_pod": 0
+    }
+]

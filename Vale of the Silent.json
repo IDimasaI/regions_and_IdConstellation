@@ -1,0 +1,1133 @@
+[
+    {
+        "category": "constellation",
+        "id": 20000030,
+        "name": "U29-0S",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30000208,
+                "name": "LZ-6SU",
+                "npc_kills": 285,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000209,
+                "name": "MC6O-F",
+                "npc_kills": 113,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000210,
+                "name": "U54-1L",
+                "npc_kills": 288,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000211,
+                "name": "B-588R",
+                "npc_kills": 246,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000212,
+                "name": "NCGR-Q",
+                "npc_kills": 177,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000213,
+                "name": "G-LOIT",
+                "npc_kills": 157,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000214,
+                "name": "HE-V4V",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 7,
+        "total_kills_nps": 1266,
+        "total_kills_ship": 0,
+        "total_kills_pod": 0
+    },
+    {
+        "category": "constellation",
+        "id": 20000031,
+        "name": "BUG6-X",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30000215,
+                "name": "N-HSK0",
+                "npc_kills": 590,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000216,
+                "name": "05R-7A",
+                "npc_kills": 408,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000217,
+                "name": "7-UH4Z",
+                "npc_kills": 378,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000218,
+                "name": "5ZO-NZ",
+                "npc_kills": 100,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000219,
+                "name": "FS-RFL",
+                "npc_kills": 315,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000220,
+                "name": "Y0-BVN",
+                "npc_kills": 352,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000221,
+                "name": "X97D-W",
+                "npc_kills": 334,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 7,
+        "total_kills_nps": 2477,
+        "total_kills_ship": 0,
+        "total_kills_pod": 0
+    },
+    {
+        "category": "constellation",
+        "id": 20000032,
+        "name": "OSJ7-I",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30000222,
+                "name": "0-R5TS",
+                "npc_kills": 429,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000223,
+                "name": "H-UCD1",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000224,
+                "name": "7-K5EL",
+                "npc_kills": 127,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000225,
+                "name": "H-5GUI",
+                "npc_kills": 41,
+                "ship_kills": 5,
+                "pod_kills": 5
+            },
+            {
+                "category": "solar_system",
+                "id": 30000226,
+                "name": "FH-TTC",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000227,
+                "name": "FMBR-8",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 6,
+        "total_kills_nps": 597,
+        "total_kills_ship": 5,
+        "total_kills_pod": 5
+    },
+    {
+        "category": "constellation",
+        "id": 20000033,
+        "name": "DMXN-3",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30000228,
+                "name": "3HX-DL",
+                "npc_kills": 181,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000229,
+                "name": "UH-9ZG",
+                "npc_kills": 177,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000230,
+                "name": "NFM-0V",
+                "npc_kills": 421,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000231,
+                "name": "YXIB-I",
+                "npc_kills": 309,
+                "ship_kills": 2,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000232,
+                "name": "MY-T2P",
+                "npc_kills": 426,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000233,
+                "name": "FA-DMO",
+                "npc_kills": 235,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000234,
+                "name": "GEKJ-9",
+                "npc_kills": 534,
+                "ship_kills": 1,
+                "pod_kills": 2
+            },
+            {
+                "category": "solar_system",
+                "id": 30000235,
+                "name": "Q-R3GP",
+                "npc_kills": 285,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000236,
+                "name": "N-5QPW",
+                "npc_kills": 310,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000237,
+                "name": "XV-8JQ",
+                "npc_kills": 442,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 10,
+        "total_kills_nps": 3320,
+        "total_kills_ship": 3,
+        "total_kills_pod": 2
+    },
+    {
+        "category": "constellation",
+        "id": 20000034,
+        "name": "I89-EP",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30000238,
+                "name": "WBR5-R",
+                "npc_kills": 358,
+                "ship_kills": 1,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000239,
+                "name": "4GYV-Q",
+                "npc_kills": 224,
+                "ship_kills": 2,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000240,
+                "name": "4-HWWF",
+                "npc_kills": 738,
+                "ship_kills": 23,
+                "pod_kills": 2
+            },
+            {
+                "category": "solar_system",
+                "id": 30000241,
+                "name": "YMJG-4",
+                "npc_kills": 139,
+                "ship_kills": 1,
+                "pod_kills": 1
+            },
+            {
+                "category": "solar_system",
+                "id": 30000242,
+                "name": "8TPX-N",
+                "npc_kills": 228,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000243,
+                "name": "PM-DWE",
+                "npc_kills": 280,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 6,
+        "total_kills_nps": 1967,
+        "total_kills_ship": 27,
+        "total_kills_pod": 3
+    },
+    {
+        "category": "constellation",
+        "id": 20000035,
+        "name": "Z-DO53",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30000244,
+                "name": "K8X-6B",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 1
+            },
+            {
+                "category": "solar_system",
+                "id": 30000245,
+                "name": "X445-5",
+                "npc_kills": 156,
+                "ship_kills": 1,
+                "pod_kills": 1
+            },
+            {
+                "category": "solar_system",
+                "id": 30000246,
+                "name": "KRUN-N",
+                "npc_kills": 443,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000247,
+                "name": "9OO-LH",
+                "npc_kills": 197,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000248,
+                "name": "V-OJEN",
+                "npc_kills": 179,
+                "ship_kills": 1,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000249,
+                "name": "EIDI-N",
+                "npc_kills": 213,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000250,
+                "name": "P3EN-E",
+                "npc_kills": 436,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000251,
+                "name": "49-0LI",
+                "npc_kills": 188,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000252,
+                "name": "IPAY-2",
+                "npc_kills": 376,
+                "ship_kills": 1,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000253,
+                "name": "DAYP-G",
+                "npc_kills": 231,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 10,
+        "total_kills_nps": 2419,
+        "total_kills_ship": 3,
+        "total_kills_pod": 2
+    },
+    {
+        "category": "constellation",
+        "id": 20000036,
+        "name": "YUT3-U",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30000254,
+                "name": "IFJ-EL",
+                "npc_kills": 30,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000255,
+                "name": "47L-J4",
+                "npc_kills": 190,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000256,
+                "name": "Q-L07F",
+                "npc_kills": 268,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000257,
+                "name": "E-D0VZ",
+                "npc_kills": 531,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000258,
+                "name": "6WW-28",
+                "npc_kills": 141,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000259,
+                "name": "A8A-JN",
+                "npc_kills": 578,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000260,
+                "name": "S-NJBB",
+                "npc_kills": 108,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 7,
+        "total_kills_nps": 1846,
+        "total_kills_ship": 0,
+        "total_kills_pod": 0
+    },
+    {
+        "category": "constellation",
+        "id": 20000037,
+        "name": "5YHF-H",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30000261,
+                "name": "T-GCGL",
+                "npc_kills": 761,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000262,
+                "name": "0MV-4W",
+                "npc_kills": 618,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000263,
+                "name": "TVN-FM",
+                "npc_kills": 337,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000264,
+                "name": "V-NL3K",
+                "npc_kills": 306,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000265,
+                "name": "AZBR-2",
+                "npc_kills": 938,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000266,
+                "name": "Z-8Q65",
+                "npc_kills": 782,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000267,
+                "name": "0J3L-V",
+                "npc_kills": 279,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 7,
+        "total_kills_nps": 4021,
+        "total_kills_ship": 0,
+        "total_kills_pod": 0
+    },
+    {
+        "category": "constellation",
+        "id": 20000038,
+        "name": "UK-MI6",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30000268,
+                "name": "H-NOU5",
+                "npc_kills": 439,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000269,
+                "name": "KX-2UI",
+                "npc_kills": 358,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000270,
+                "name": "MO-FIF",
+                "npc_kills": 170,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000271,
+                "name": "97-M96",
+                "npc_kills": 84,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000272,
+                "name": "MA-XAP",
+                "npc_kills": 219,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000273,
+                "name": "C-J7CR",
+                "npc_kills": 298,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 6,
+        "total_kills_nps": 1568,
+        "total_kills_ship": 0,
+        "total_kills_pod": 0
+    },
+    {
+        "category": "constellation",
+        "id": 20000039,
+        "name": "YDS0-Y",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30000274,
+                "name": "Q-EHMJ",
+                "npc_kills": 58,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000275,
+                "name": "XSQ-TF",
+                "npc_kills": 366,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000276,
+                "name": "H-1EOH",
+                "npc_kills": 99,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000277,
+                "name": "IR-DYY",
+                "npc_kills": 128,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000278,
+                "name": "C-DHON",
+                "npc_kills": 280,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000279,
+                "name": "F-D49D",
+                "npc_kills": 292,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 6,
+        "total_kills_nps": 1223,
+        "total_kills_ship": 0,
+        "total_kills_pod": 0
+    },
+    {
+        "category": "constellation",
+        "id": 20000040,
+        "name": "A3-T8B",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30000280,
+                "name": "MQ-O27",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000281,
+                "name": "H-EY0P",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000282,
+                "name": "UNAG-6",
+                "npc_kills": 45,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000283,
+                "name": "E-SCTX",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000284,
+                "name": "S6QX-N",
+                "npc_kills": 61,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000285,
+                "name": "IT-YAU",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000286,
+                "name": "1VK-6B",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000287,
+                "name": "7-PO3P",
+                "npc_kills": 76,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000288,
+                "name": "1W-0KS",
+                "npc_kills": 85,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 9,
+        "total_kills_nps": 267,
+        "total_kills_ship": 0,
+        "total_kills_pod": 0
+    },
+    {
+        "category": "constellation",
+        "id": 20000041,
+        "name": "DILJ-7",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30000289,
+                "name": "669-IX",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000290,
+                "name": "0R-F2F",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000291,
+                "name": "R-P7KL",
+                "npc_kills": 39,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000292,
+                "name": "2DWM-2",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000293,
+                "name": "XF-PWO",
+                "npc_kills": 196,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000294,
+                "name": "1N-FJ8",
+                "npc_kills": 340,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 6,
+        "total_kills_nps": 575,
+        "total_kills_ship": 0,
+        "total_kills_pod": 0
+    },
+    {
+        "category": "constellation",
+        "id": 20000042,
+        "name": "0-8MWQ",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30000295,
+                "name": "VI2K-J",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000296,
+                "name": "ZLZ-1Z",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000297,
+                "name": "6Y-WRK",
+                "npc_kills": 29,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000298,
+                "name": "RVCZ-C",
+                "npc_kills": 314,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000299,
+                "name": "5T-KM3",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000300,
+                "name": "LS9B-9",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 6,
+        "total_kills_nps": 343,
+        "total_kills_ship": 0,
+        "total_kills_pod": 0
+    },
+    {
+        "category": "constellation",
+        "id": 20000043,
+        "name": "F-V9QW",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30000301,
+                "name": "1-GBBP",
+                "npc_kills": 888,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000302,
+                "name": "C-FP70",
+                "npc_kills": 116,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000303,
+                "name": "T-ZWA1",
+                "npc_kills": 169,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000304,
+                "name": "ZA0L-U",
+                "npc_kills": 84,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000305,
+                "name": "G96R-F",
+                "npc_kills": 1158,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000306,
+                "name": "Y-ZXIO",
+                "npc_kills": 1078,
+                "ship_kills": 1,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 6,
+        "total_kills_nps": 3493,
+        "total_kills_ship": 1,
+        "total_kills_pod": 0
+    },
+    {
+        "category": "constellation",
+        "id": 20000044,
+        "name": "E-8CSQ",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30000307,
+                "name": "B-E3KQ",
+                "npc_kills": 116,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000308,
+                "name": "Y5J-EU",
+                "npc_kills": 5,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000309,
+                "name": "O-LR1H",
+                "npc_kills": 31,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000310,
+                "name": "G5ED-Y",
+                "npc_kills": 5,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000311,
+                "name": "BR-6XP",
+                "npc_kills": 53,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000312,
+                "name": "8-TFDX",
+                "npc_kills": 105,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000313,
+                "name": "UL-4ZW",
+                "npc_kills": 154,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 7,
+        "total_kills_nps": 469,
+        "total_kills_ship": 0,
+        "total_kills_pod": 0
+    },
+    {
+        "category": "constellation",
+        "id": 20000045,
+        "name": "9KX-M0",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30000314,
+                "name": "A-QRQT",
+                "npc_kills": 33,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000315,
+                "name": "WMBZ-U",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000316,
+                "name": "PX5-LR",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000317,
+                "name": "A3-RQ3",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000318,
+                "name": "9-GBPD",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000319,
+                "name": "LS-JEP",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 6,
+        "total_kills_nps": 33,
+        "total_kills_ship": 0,
+        "total_kills_pod": 0
+    },
+    {
+        "category": "constellation",
+        "id": 20000046,
+        "name": "88G-M4",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30000320,
+                "name": "R-RSZZ",
+                "npc_kills": 236,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000321,
+                "name": "MGAM-4",
+                "npc_kills": 209,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000322,
+                "name": "VORM-W",
+                "npc_kills": 4,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000323,
+                "name": "7G-H7D",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000324,
+                "name": "Q3-BAY",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30000325,
+                "name": "JZV-F4",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 6,
+        "total_kills_nps": 449,
+        "total_kills_ship": 0,
+        "total_kills_pod": 0
+    }
+]

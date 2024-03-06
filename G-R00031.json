@@ -1,0 +1,21 @@
+[
+    {
+        "category": "constellation",
+        "id": 21000324,
+        "name": "G-C00324",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 31000005,
+                "name": "Thera",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 1,
+        "total_kills_nps": 0,
+        "total_kills_ship": 0,
+        "total_kills_pod": 0
+    }
+]

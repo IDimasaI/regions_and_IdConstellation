@@ -1,0 +1,621 @@
+[
+    {
+        "category": "constellation",
+        "id": 20000727,
+        "name": "Crux",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30004967,
+                "name": "Luminaire",
+                "npc_kills": 174,
+                "ship_kills": 1,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30004968,
+                "name": "Mies",
+                "npc_kills": 206,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30004969,
+                "name": "Oursulaert",
+                "npc_kills": 225,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30004970,
+                "name": "Renyn",
+                "npc_kills": 72,
+                "ship_kills": 1,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30004971,
+                "name": "Duripant",
+                "npc_kills": 254,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30004972,
+                "name": "Algogille",
+                "npc_kills": 214,
+                "ship_kills": 1,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30014971,
+                "name": "Couster",
+                "npc_kills": 373,
+                "ship_kills": 3,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 7,
+        "total_kills_nps": 1518,
+        "total_kills_ship": 6,
+        "total_kills_pod": 0
+    },
+    {
+        "category": "constellation",
+        "id": 20000728,
+        "name": "Patrie",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30004973,
+                "name": "Caslemon",
+                "npc_kills": 74,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30004974,
+                "name": "Jolevier",
+                "npc_kills": 236,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30004975,
+                "name": "Mesybier",
+                "npc_kills": 173,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30004976,
+                "name": "Charmerout",
+                "npc_kills": 202,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30004977,
+                "name": "Yvangier",
+                "npc_kills": 118,
+                "ship_kills": 0,
+                "pod_kills": 1
+            },
+            {
+                "category": "solar_system",
+                "id": 30004978,
+                "name": "Pemene",
+                "npc_kills": 188,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 6,
+        "total_kills_nps": 991,
+        "total_kills_ship": 0,
+        "total_kills_pod": 1
+    },
+    {
+        "category": "constellation",
+        "id": 20000729,
+        "name": "Jeon",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30004979,
+                "name": "Heydieles",
+                "npc_kills": 95,
+                "ship_kills": 5,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30004980,
+                "name": "Fliet",
+                "npc_kills": 6,
+                "ship_kills": 1,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30004981,
+                "name": "Actee",
+                "npc_kills": 3,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30004982,
+                "name": "Indregulle",
+                "npc_kills": 77,
+                "ship_kills": 1,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30004983,
+                "name": "Amane",
+                "npc_kills": 36,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30004984,
+                "name": "Abune",
+                "npc_kills": 124,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30004986,
+                "name": "Estaunitte",
+                "npc_kills": 121,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30004985,
+                "name": "Deven",
+                "npc_kills": 19,
+                "ship_kills": 1,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 8,
+        "total_kills_nps": 481,
+        "total_kills_ship": 8,
+        "total_kills_pod": 0
+    },
+    {
+        "category": "constellation",
+        "id": 20000730,
+        "name": "Balrille",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30004987,
+                "name": "Deninard",
+                "npc_kills": 169,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30004988,
+                "name": "Hulmate",
+                "npc_kills": 43,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30004989,
+                "name": "Annages",
+                "npc_kills": 122,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30004990,
+                "name": "Onne",
+                "npc_kills": 26,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30004991,
+                "name": "Vitrauze",
+                "npc_kills": 25,
+                "ship_kills": 1,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30004992,
+                "name": "Palmon",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 6,
+        "total_kills_nps": 385,
+        "total_kills_ship": 1,
+        "total_kills_pod": 0
+    },
+    {
+        "category": "constellation",
+        "id": 20000731,
+        "name": "Vieres",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30004994,
+                "name": "Arant",
+                "npc_kills": 74,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30004995,
+                "name": "Allamotte",
+                "npc_kills": 58,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30004996,
+                "name": "Obalyu",
+                "npc_kills": 84,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30004997,
+                "name": "Vifrevaert",
+                "npc_kills": 1,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30004998,
+                "name": "Parts",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30004999,
+                "name": "Ladistier",
+                "npc_kills": 28,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30005000,
+                "name": "Old Man Star",
+                "npc_kills": 41,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30004993,
+                "name": "Villore",
+                "npc_kills": 57,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 8,
+        "total_kills_nps": 343,
+        "total_kills_ship": 0,
+        "total_kills_pod": 0
+    },
+    {
+        "category": "constellation",
+        "id": 20000732,
+        "name": "Peccanouette",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30005001,
+                "name": "Arnon",
+                "npc_kills": 709,
+                "ship_kills": 1,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30005002,
+                "name": "Laurvier",
+                "npc_kills": 101,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30005003,
+                "name": "Adirain",
+                "npc_kills": 161,
+                "ship_kills": 1,
+                "pod_kills": 1
+            },
+            {
+                "category": "solar_system",
+                "id": 30005004,
+                "name": "Attyn",
+                "npc_kills": 55,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30005006,
+                "name": "Aere",
+                "npc_kills": 71,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30005007,
+                "name": "Lisbaetanne",
+                "npc_kills": 70,
+                "ship_kills": 1,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30005008,
+                "name": "Aeschee",
+                "npc_kills": 170,
+                "ship_kills": 3,
+                "pod_kills": 2
+            }
+        ],
+        "systems_count": 7,
+        "total_kills_nps": 1337,
+        "total_kills_ship": 6,
+        "total_kills_pod": 3
+    },
+    {
+        "category": "constellation",
+        "id": 20000733,
+        "name": "Arand",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30005009,
+                "name": "Allebin",
+                "npc_kills": 78,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30005010,
+                "name": "Atlulle",
+                "npc_kills": 30,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30005011,
+                "name": "Droselory",
+                "npc_kills": 298,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30005012,
+                "name": "Haine",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30005013,
+                "name": "Perckhevin",
+                "npc_kills": 95,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30005014,
+                "name": "Isenan",
+                "npc_kills": 0,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 6,
+        "total_kills_nps": 501,
+        "total_kills_ship": 0,
+        "total_kills_pod": 0
+    },
+    {
+        "category": "constellation",
+        "id": 20000734,
+        "name": "Thoulde",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30005016,
+                "name": "Wysalan",
+                "npc_kills": 119,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30005017,
+                "name": "Yona",
+                "npc_kills": 8,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30005018,
+                "name": "Noghere",
+                "npc_kills": 44,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30005019,
+                "name": "Aporulie",
+                "npc_kills": 140,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30005020,
+                "name": "Seyllin",
+                "npc_kills": 3,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30005022,
+                "name": "Ane",
+                "npc_kills": 7,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30005023,
+                "name": "Clorteler",
+                "npc_kills": 38,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30034971,
+                "name": "Henebene",
+                "npc_kills": 73,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30044971,
+                "name": "Mesokel",
+                "npc_kills": 39,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30005021,
+                "name": "Adrel",
+                "npc_kills": 143,
+                "ship_kills": 1,
+                "pod_kills": 1
+            },
+            {
+                "category": "solar_system",
+                "id": 30005015,
+                "name": "Synchelle",
+                "npc_kills": 69,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 11,
+        "total_kills_nps": 683,
+        "total_kills_ship": 1,
+        "total_kills_pod": 1
+    },
+    {
+        "category": "constellation",
+        "id": 20000735,
+        "name": "Eustron",
+        "systems": [
+            {
+                "category": "solar_system",
+                "id": 30005024,
+                "name": "Atlangeins",
+                "npc_kills": 168,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30005025,
+                "name": "Derririntel",
+                "npc_kills": 48,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30005026,
+                "name": "Cat",
+                "npc_kills": 79,
+                "ship_kills": 1,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30005027,
+                "name": "Ommare",
+                "npc_kills": 33,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30005028,
+                "name": "Andole",
+                "npc_kills": 27,
+                "ship_kills": 0,
+                "pod_kills": 0
+            },
+            {
+                "category": "solar_system",
+                "id": 30024971,
+                "name": "Hecarrin",
+                "npc_kills": 283,
+                "ship_kills": 0,
+                "pod_kills": 0
+            }
+        ],
+        "systems_count": 6,
+        "total_kills_nps": 638,
+        "total_kills_ship": 1,
+        "total_kills_pod": 0
+    }
+]
